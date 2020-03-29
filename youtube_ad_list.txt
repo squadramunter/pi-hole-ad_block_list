@@ -230,3 +230,4 @@
 127.0.0.1 r1---sn-4g5e6nl6.googlevideo.com
 127.0.0.1 r1---sn-4g5e6ne6.googlevideo.com
 127.0.0.1 r5---sn-4g5edne6.googlevideo.com
+127.0.0.1 googleads.g.doubleclick.net
