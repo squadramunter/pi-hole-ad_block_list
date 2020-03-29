@@ -229,3 +229,4 @@
 0.0.0.0 r1---sn-4g5e6ns6.googlevideo.com
 0.0.0.0 r1---sn-4g5e6nl6.googlevideo.com
 0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
+0.0.0.0 r5---sn-4g5edne6.googlevideo.com
